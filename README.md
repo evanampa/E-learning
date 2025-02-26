@@ -25,4 +25,4 @@ A dynamic web application designed to support undergraduate courses by managing 
 
 
 ## 👩‍💻 Author
-- **Your Name** – [GitHub Profile](https://github.com/yourusername)
+- **Evanampa** – [GitHub Profile](https://github.com/evanampa)
