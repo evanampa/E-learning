@@ -12,7 +12,7 @@ A dynamic web application designed to support undergraduate courses by managing 
   - Only authenticated users can access course content.
 
 ## 🛠️ Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS
 - **Backend**: PHP
 - **Database**: MySQL
 
