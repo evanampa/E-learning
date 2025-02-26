@@ -1,0 +1,129 @@
+* {
+  	box-sizing: border-box;
+}
+
+body {
+  	font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  	background-color: rgb(0, 51, 102);
+  	padding: 1px;
+  	text-align: center;
+  	font-size: 35px;
+}
+
+header p{
+	color:white;
+	font-size: 20px;
+
+}
+
+nav {
+    	background: rgb(255, 255, 77);
+  	width: 20%;
+}
+
+nav ul {
+    	list-style-type: square;  
+	padding: 8%;
+}
+
+footer {
+  	background-color: rgb(0, 51, 102);
+  	padding: 10px;
+  	text-align: right;
+}
+#link1{
+	margin-top: 55%;
+	margin-left:8%;
+	border-radius: 10px;
+	background-color: rgb(0, 51, 102);
+	color: white;
+}
+#link1:hover{
+	background-color: rgb(0, 51, 147);
+}
+#link2{
+	background-color: rgb(0, 51, 102);
+	color: white;
+}
+#link3{
+	background-color: #f1f1f1;
+	color: blue;
+	padding: 1px;
+	margin-left: 10%;
+}
+#link3:hover{
+	text-decoration: underline;
+}
+#log{
+	margin-top: 38%;
+	margin-left:8%;
+	border-radius: 10px;
+	background-color: rgb(0, 51, 102);
+	color: white;
+}
+#log:hover{
+	background-color: rgb(0, 51, 147);
+}
+
+a:link, a:visited {
+  	background-color: rgb(255, 255, 77);
+  	color: rgb(0, 51, 102);
+  	padding: 14px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+}
+
+a:hover, a:active {
+  	background-color: rgb(0, 51, 102);
+	color: white;
+}
+
+article {
+  	background-color: #f1f1f1;
+}
+
+section::after {
+  	content: "";
+  	display: table;
+  	clear: both;
+}
+
+article p{
+	padding-left: 10%;
+}
+h1{
+	color: white;
+    	font-family: "Monaco" , Monospace;
+	font-weight: bold;
+	text-shadow: 3px 3px 4px yellow;
+	text-align : center;
+	margin: 2%;
+}
+
+button{
+  	background-color: rgb(0, 51, 102);
+  	color: white;
+  	padding: 10px;
+}
+
+h2{
+	text-align : left;	
+	font-weight: bold;
+	text-decoration: underline;
+
+}
+
+.col-container {
+	display: table;
+	width: 100%;
+}
+
+.col {
+	display: table-cell;
+	padding: 15px;
+}
+

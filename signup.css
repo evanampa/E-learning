@@ -1,0 +1,96 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;   
+}
+header {
+  	background-color: rgb(0, 51, 102);
+  	padding: 1px;
+  	text-align: center;
+  	font-size: 35px;
+}
+header p{
+	color:white;
+	font-size: 20px;
+}
+h1{
+	color: white;
+    font-family: "Monaco" , Monospace;
+	font-weight: bold;
+	text-shadow: 3px 3px 4px yellow;
+	text-align : center;
+	margin: 2%;
+}
+nav {
+    	background: rgb(255, 255, 77);
+  	width: 20%;
+  }
+nav ul {
+    	list-style-type: square;  
+	padding: 8%;
+}
+.registerbtn{
+	margin-top: 38%;
+	margin-left:8%;
+	border-radius: 10px;
+	background-color: rgb(0, 51, 102);
+	color: white;
+}
+.registerbtn:hover{
+	background-color: rgb(0, 51, 147);
+}
+.col-container {
+	display: table;
+	width: 100%;
+}
+.col {
+	display: table-cell;
+	padding: 15px;
+}
+.container{
+    padding: 10px;
+    background-color: rgb(255, 255, 255);  
+}
+input[type=text],input[type=email],input[type=password]{
+    width: 20%;
+    height: 5px;
+    padding: 15px;
+    margin: 5px 0 20px 0;
+    display: inline-block;
+    border: none;
+    outline: none;
+    background: rgb(230, 230, 230);
+	border-radius: 7px;
+}
+input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{
+    background-color: rgb(242, 242, 242);
+    outline: none;
+}
+.registerbtn{
+    background-color: rgb(0, 51, 102);
+    border-radius: 25px;
+    color: white;
+    font-size: medium;
+    padding: 15px;
+    width: 20%;
+    margin: 10px;
+    position: left;
+    cursor: pointer;
+    opacity: 0.9;  
+}
+
+.registerbtn:hover{
+    opacity: 1; 
+}
+a{
+    color: blue;
+}
+input[type="checkbox"] + label
+{
+	color:black;
+	height: 20px;
+	width: 8%;
+	display:inline-block;
+}
+

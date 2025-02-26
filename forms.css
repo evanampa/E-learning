@@ -1,0 +1,117 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;   
+}
+header {
+  	background-color: rgb(0, 51, 102);
+  	padding: 1px;
+  	text-align: center;
+  	font-size: 35px;
+}
+header p{
+	color:white;
+	font-size: 20px;
+}
+h1{
+	color: white;
+    font-family: "Monaco" , Monospace;
+	font-weight: bold;
+	text-shadow: 3px 3px 4px yellow;
+	text-align : center;
+	margin: 2%;
+}
+nav {
+	background: rgb(255, 255, 77);
+  	width: 20%;
+  }
+nav ul {
+    	list-style-type: square;  
+	padding: 8%;
+}
+a:link, a:visited {
+  	background-color: rgb(255, 255, 77);
+  	color: rgb(0, 51, 102);
+  	padding: 14px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+}
+
+a:hover, a:active {
+  	background-color: rgb(0, 51, 102);
+	color: white;
+}
+#log{
+	margin-top: 38%;
+	margin-left:8%;
+	border-radius: 10px;
+	background-color: rgb(0, 51, 102);
+	color: white;
+}
+#log:hover{
+	background-color: rgb(0, 51, 147);
+}
+.col-container {
+	display: table;
+	width: 100%;
+}
+.col {
+	display: table-cell;
+	padding: 15px;
+}
+.container{
+    padding: 2%;
+    background-color: rgb(255, 255, 255);  
+}
+.container p{
+	font-weight: bold;
+	font-size: 30px;
+}
+input[type=text]{
+    width: 50%;
+    height: 5px;
+    padding: 15px;
+    margin: 5px 0 20px 10px;
+    display: inline-block;
+    border: none;
+    outline: none;
+    background: rgb(230, 230, 230);
+	border-radius: 7px;
+}
+input[type=text]:focus{
+    background-color: rgb(242, 242, 242);
+    outline: none;
+}
+textarea {
+	height:100px;
+  	width: 50%;
+  	padding: 7px 12px;
+  	margin: 8px 10px;
+  	display: inline-block;
+  	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+	background-color: rgb(242, 242, 242);
+}
+
+a{
+    color: blue;
+}
+#linkbtn{ 
+	background-color: rgb(0, 51, 102); 
+	border-radius: 25px; 
+	color: white; 
+	font-size: medium; 
+	padding: 15px; 
+	width: 20%; 
+	margin: 10px; 
+	position: left; 
+	cursor: pointer; 
+	opacity: 0.9; 
+} 
+	
+#linkbtn:hover{ 
+	opacity: 1; 
+}
