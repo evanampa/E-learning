@@ -17,7 +17,11 @@ A dynamic web application designed to support undergraduate courses by managing 
 - **Database**: MySQL
 
 ## 📷 Screenshots
-![Στιγμιότυπο οθόνης 2025-02-26 140806](https://github.com/user-attachments/assets/bbd567e0-328d-46dd-8873-e438382c8944)
+
+![Στιγμιότυπο οθόνης 2025-02-26 140725](https://github.com/user-attachments/assets/adb37ba0-a224-4cf6-bf63-bfe75f7a39fa)
+![Στιγμιότυπο οθόνης 2025-02-26 140741](https://github.com/user-attachments/assets/5939e4d4-a76a-4acd-8865-1af7872ba71f)
+![Στιγμιότυπο οθόνης 2025-02-26 140754](https://github.com/user-attachments/assets/3df8a58e-e44d-49cd-a900-b7ddb194e7d1)
+![Στιγμιότυπο οθόνης 2025-02-26 140806](https://github.com/user-attachments/assets/6db9a89a-3507-4517-a987-533922241d42)
 
 
 ## 👩‍💻 Author
