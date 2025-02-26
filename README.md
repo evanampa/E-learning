@@ -16,19 +16,9 @@ A dynamic web application designed to support undergraduate courses by managing 
 - **Backend**: PHP
 - **Database**: MySQL
 
-## 🚀 Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/elearning-platform.git
-   ```
-2. Set up a local server (e.g., XAMPP, WAMP, or MAMP).
-3. Import the `database.sql` file into MySQL.
-4. Update database credentials in `config.php`.
-5. Start the server and access the platform via `http://localhost/elearning`.
-
 ## 📷 Screenshots
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
+![Στιγμιότυπο οθόνης 2025-02-26 140806](https://github.com/user-attachments/assets/bbd567e0-328d-46dd-8873-e438382c8944)
+
 
 ## 👩‍💻 Author
 - **Your Name** – [GitHub Profile](https://github.com/yourusername)
